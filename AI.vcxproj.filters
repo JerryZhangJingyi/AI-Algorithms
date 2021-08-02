@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Boid.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="KinematicSeek.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Bread.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicSeek.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicArrive.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicAlign.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicWander.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectedGraph.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractionScheme.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="TileGraph.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstantGuess.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLevel.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ManhattanDistance.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="EuclideanDistance.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Types.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Boid.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="KinematicSeek.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Bread.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicSeek.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicArrive.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicAlign.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicWander.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectedGraph.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractionScheme.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="TileGraph.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinder.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Heuristic.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstantGuess.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLevel.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ManhattanDistance.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="EuclideanDistance.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Dijkstra.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TestMap.level" />
+  </ItemGroup>
+</Project>
